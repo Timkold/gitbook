@@ -1,2 +1,2 @@
-[Русский](ru/README.md)
-[English](eng/README.md)
+[Русский](/ru/README.md)
+[English](/eng/README.md)
