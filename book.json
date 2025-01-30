@@ -1,10 +1,9 @@
 {
     "title": "My Documentation",
-    "root": "./gitbook",
     "languages": {
-      "eng": {
+      "en": {
         "label": "English",
-        "path": "en"
+        "path": "eng"
       },
       "ru": {
         "label": "Русский",
