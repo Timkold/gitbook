@@ -1,6 +1,6 @@
 {
     "title": "My Documentation",
-    "root": "./docs",
+    "root": "./gitbook",
     "languages": {
       "eng": {
         "label": "English",
