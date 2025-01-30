@@ -1,0 +1,8 @@
+    root: ./
+    languages:
+      en:
+        label: "English"
+        path: "eng"
+      ru: 
+        label: "Русский"
+        path: "ru"
