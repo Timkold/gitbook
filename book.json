@@ -1,0 +1,14 @@
+{
+    "title": "My Documentation",
+    "root": "./docs",
+    "languages": {
+      "eng": {
+        "label": "English",
+        "path": "en"
+      },
+      "ru": {
+        "label": "Русский",
+        "path": "ru"
+      }
+    }
+  }
