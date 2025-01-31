@@ -1,4 +1,4 @@
-# 🏢 Data Center
+# Data Center
 
 A data center is an entity representing a site that includes interconnected rooms and racks. Only data from devices linked to racks within a specific data center are displayed. 📌 By default, one data center is created upon the first login to the personal account.
 
@@ -17,7 +17,7 @@ Table fields:
 
 • Edit ✏️: button for modifications.
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-01-13 в 20.00.48.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-13%20%D0%B2%2020.00.48.png" alt=""><figcaption></figcaption></figure>
 
 ## ➕ Creating a Data Center
 
@@ -33,7 +33,7 @@ Table fields:
 \
 💡 The first data center is created with ID 1. A new data center receives the next sequential ID, even if previous ones were deleted.
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-01-13 в 20.01.05.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-13%20%D0%B2%2020.01.05.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## ✏️ Editing a Data Center
 
@@ -46,7 +46,7 @@ Table fields:
 
 4\. Click Update.
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-01-13 в 20.01.23.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-13%20%D0%B2%2020.01.23.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## 🗑️ Deleting a Data Center
 
@@ -57,11 +57,9 @@ Table fields:
 
 3\. In the pop-up window, confirm the action by clicking Confirm.
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-01-13 в 20.01.44.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-13%20%D0%B2%2020.01.44.png" alt="" width="375"><figcaption></figcaption></figure>
 
-
-
-[_**🔹 Charts**_](#user-content-fn-1)[^1]
+_**🔹 Charts**_
 
 \
 • 📈 Hashrate: total device hashrate (TH/s).
@@ -82,6 +80,4 @@ Table fields:
 
 • 📋 Total Asic: total number of devices.
 
-<figure><img src="../../.gitbook/assets/Снимок экрана 2025-01-13 в 20.04.38.png" alt=""><figcaption></figcaption></figure>
-
-[^1]: 
+<figure><img src="../../.gitbook/assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-13%20%D0%B2%2020.04.38.png" alt=""><figcaption></figcaption></figure>
